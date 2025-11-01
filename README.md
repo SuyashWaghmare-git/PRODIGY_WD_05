@@ -1,3 +1,11 @@
+
+
+
+
+
+https://github.com/user-attachments/assets/0afbf6ed-481e-4293-b19f-2925ab22aa35
+
+
 Weather App – Real-Time Weather Forecast using OpenWeatherMap API
 
 🧩 Description
